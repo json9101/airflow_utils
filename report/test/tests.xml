@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="DESKTOP-PR49LJH" name="pytest" skipped="0" tests="1" time="0.115" timestamp="2023-06-09T16:42:25.569222"><testcase classname="tests.airflow_utils.test_airflow_utils" name="test_ping" time="0.002" /></testsuite></testsuites>
